@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="130" viewBox="0 0 410 130">
+  <!-- three overlapping circles -->
+  <circle cx="46" cy="52" r="26" fill="#00557F" fill-opacity=".85"/><circle cx="76" cy="52" r="26" fill="#007F55" fill-opacity=".75"/><circle cx="61" cy="78" r="26" fill="#7F002A" fill-opacity=".8"/>
+  <text x="116" y="76" font-family="'Trebuchet MS', Verdana, sans-serif" font-size="40" font-weight="700" fill="#00557F">Pastel</text>
+  <text x="118" y="100" font-family="'Trebuchet MS', Verdana, sans-serif" font-size="14" letter-spacing="3" fill="#007F7F">REDMINE THEME</text>
+</svg>
